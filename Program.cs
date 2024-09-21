@@ -1,5 +1,14 @@
 ﻿namespace Github_HuntingTheManticoreWithClasses
 {
+    //I wasn't to sure on where to put everything, like:
+    //If I wanted the user to decide min and max Distance, where should I put that?
+    //Should I have seperated player and city? I probably should have, I mean player is the player and the city is just the city.
+    //GameManager does a lot of things and I don't think it should handle this much. Like displaying? Probably not, but at the same time its a GameManager(I am not enterily sure what a game manager really is)
+    //So shouldn't it handle the status of the game?
+    
+    
+    
+    
     //Classes
 
 
